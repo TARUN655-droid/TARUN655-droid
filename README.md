@@ -14,32 +14,15 @@ I'm a passionate Full Stack Web Developer who loves creating innovative digital 
 
 <div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+<!-- Animated Tech Stack - Left to Right -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=HTML5+%E2%9E%A1%EF%B8%8F+CSS3+%E2%9E%A1%EF%B8%8F+JavaScript+%E2%9E%A1%EF%B8%8F+React+%E2%9E%A1%EF%B8%8F+Node.js+%E2%9E%A1%EF%B8%8F+MongoDB+%E2%9E%A1%EF;Frontend+%E2%9E%A1%EF%B8%8F+Backend+%E2%9E%A1%EF%B8%8F+Database+%E2%9E%A1%EF%B8%8F+Full+Stack;Building+Amazing+Web+Experiences...+💻" alt="Tech Stack Animation" />
 
-### Backend
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Others
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<!-- Tech Icons Moving Left to Right -->
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,git,github&theme=dark" alt="Tech Stack Icons" />
+</p>
 
 </div>
-
-```
-Frontend  ████████████████████  100%
-Backend   ████████████████████  100%
-Database  ████████████████████  100%
-DevOps    ██████████████░░░░░░   70%
-```
 
 ---
 
