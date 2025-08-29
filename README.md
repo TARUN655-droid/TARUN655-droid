@@ -1,12 +1,12 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Tarun Rajpurohit 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;MSCIT+Post+Graduate;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer who loves creating efficient, scalable web applications. I enjoy working with modern technologies and am always eager to learn new tools and frameworks.
+I'm a passionate full-stack developer with an **MSCIT post-graduation** background who loves creating efficient, scalable web applications. I enjoy working with modern technologies and am always eager to learn new tools and frameworks.
 
 - 🔭 I'm currently working on exciting projects using **MERN Stack**
 - 🌱 I'm constantly learning and exploring new technologies
@@ -89,8 +89,9 @@ I'm a passionate full-stack developer who loves creating efficient, scalable web
 
 ```javascript
 const developer = {
-  name: "Your Name",
-  location: "Your City, Country",
+  name: "Tarun Rajpurohit",
+  education: "MSCIT Post Graduate",
+  location: "India",
   currentlyLearning: ["Advanced React Patterns", "Microservices", "DevOps"],
   workingOn: ["Personal Portfolio", "Open Source Contributions"],
   askMeAbout: ["React", "Node.js", "JavaScript", "Web Development"],
